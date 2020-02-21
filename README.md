@@ -2,7 +2,7 @@
 Spring 2020 SLHS PowerGrid GroupStroud
 
 Group Memebers :
-  Prudhvi Kothakonda'
+  Prudhvi Kothakonda
   Logan Garric
   Kathresan
   K
